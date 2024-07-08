@@ -1,3 +1,1 @@
-# dh-multi-lingual-voice-search
-
-Multi Lingual Voice Search for DailyHunt
+# Multi Lingual Voice Search 
